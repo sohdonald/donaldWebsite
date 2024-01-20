@@ -3,7 +3,9 @@ import React from "react";
 function BPosts() {
     return(
         <div>
-            {/* <img src="happy fish.jpg" alt="funny image"> </img> */}
+            <div>
+            <img src="../sketches/RingoNap.png" alt="funny"></img>
+            </div>
             <button>happy button</button>
             <button>silly button</button>
         </div>
